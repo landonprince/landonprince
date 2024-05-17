@@ -1,7 +1,7 @@
 # Hello, I'm Landon
 
 ## About Me
-
+Driven by a profound passion for computer science, I am dedicated to deepening my expertise and contributing innovative solutions in the technology sector. My academic pursuits in computer science are matched by hands-on experience in software development and a fervent commitment to continuous learning. Whether working on cutting-edge projects or engaging with the latest in functional programming and cloud technologies, I bring a blend of curiosity, analytical thinking, and a collaborative spirit to every endeavor.
 
 
 
