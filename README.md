@@ -1,4 +1,5 @@
 # Hello, I'm Landon
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ## About Me
 Hello there! I am an undergraduate at Vanderbilt University majoring in Computer Science and minoring in business.
