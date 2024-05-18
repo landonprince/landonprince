@@ -19,7 +19,7 @@ Driven by a profound passion for computer science, I am dedicated to deepening m
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=landonprince&show_icons=true&theme=dark)
 
 ## Profile Trophies
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=landonprince&theme=gruvbox)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=landonprince&theme=darkhub)
 
 
 ## How to Reach Me
