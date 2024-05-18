@@ -21,7 +21,6 @@ Driven by a profound passion for computer science, I am dedicated to deepening m
 ## Profile Trophies
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=landonprince&theme=darkhub)
 
-
-## How to Reach Me
+## How To Reach Me
 - Email: landoncprince@gmail.com
 - LinkedIn: [landonprince](https://www.linkedin.com/in/landon-prince-4bb945256/)
