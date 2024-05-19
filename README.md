@@ -6,10 +6,6 @@ Hello there! I am an undergraduate at Vanderbilt University majoring in Computer
 
 Driven by a profound passion for computer science, I am dedicated to deepening my expertise and contributing innovative solutions in the technology sector. My academic pursuits in computer science are matched by hands-on experience in software development and a fervent commitment to continuous learning. Whether working on cutting-edge projects or engaging with the latest in functional programming and cloud technologies, I bring a blend of curiosity, analytical thinking, and a collaborative spirit to every endeavor.
 
-## Contact Me
-- Email: landoncprince@gmail.com
-- LinkedIn: [landonprince](https://www.linkedin.com/in/landon-prince-4bb945256/)
-
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/landonprince/count.svg)
 
@@ -25,3 +21,6 @@ Driven by a profound passion for computer science, I am dedicated to deepening m
 ## Profile Trophies
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=landonprince&theme=darkhub)
 
+## Contact Me
+- Email: landoncprince@gmail.com
+- LinkedIn: [landonprince](https://www.linkedin.com/in/landon-prince-4bb945256/)
