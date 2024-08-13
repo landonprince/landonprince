@@ -1,6 +1,3 @@
-#### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/landonprince/count.svg)
-
 # Hello, I'm Landon
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b) 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
