@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ## About Me
-Hello! My name is Landon Prince and I am an undergraduate at Vanderbilt University majoring in Computer Science and minoring in business. Driven by a deep passion for software development, I strive to enhance my expertise and create innovative solutions in technology. My academic background in computer science, coupled with practical software development experience, reflects my commitment to continuous learning. I bring curiosity, analytical thinking, and a collaborative spirit to every endeavor.
+Hi! My name is Landon Prince and I am an undergraduate at Vanderbilt University majoring in computer science with a minor in business. Driven by a strong passion for software development, I strive to enhance my expertise and create innovative solutions in technology. My academic background in computer science, coupled with practical software development experience, reflects my commitment to continuous learning. I bring curiosity, analytical thinking, and a collaborative spirit to every endeavor.
 
 ## Profile Activity
 ![Your GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=landonprince&theme=github_dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=landonprince&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&hide_border=true)
